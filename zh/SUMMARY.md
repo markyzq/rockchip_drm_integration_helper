@@ -29,6 +29,7 @@
 * [屏相关配置]
  - [屏配置的几个方式](generic_panel.md)
  - [edp屏点亮步骤](bringup_edp_panel.md)
+ - [LVDS配置](lvds_panel.md)
 * [调试手段]
  - [dump当前显示状态](drm_dump_summary.md)
  - [dump当前drm使用的buffer](drm_dump_mm.md)
