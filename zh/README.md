@@ -26,6 +26,7 @@
  - [CONFIG_DRM_LOAD_EDID_FIRMWARE](drm_config_load_firmware.md)
 * [屏相关配置]
  - [通用屏配置](generic_panel.md)
+ - [edp屏点亮步骤](bringup_edp_panel.md)
 * [调试手段]
  - [dump当前显示状态](drm_dump_summary.md)
  - [dump当前drm使用的buffer](drm_dump_mm.md)
