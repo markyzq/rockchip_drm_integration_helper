@@ -26,6 +26,7 @@
  - [CONFIG_DRM_LOAD_EDID_FIRMWARE](drm_config_load_firmware.md)
 * [休眠]
  - [android一级二级休眠](drm_suspend.md)
+* [DRM device Tree解析](drm_devicetree.md)
 * [屏相关配置]
  - [屏配置的几个方式](generic_panel.md)
  - [edp屏点亮步骤](bringup_edp_panel.md)
