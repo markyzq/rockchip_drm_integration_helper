@@ -22,3 +22,9 @@ https://github.com/markyzq/rockchip_drm_demos
 ###RockChip开源官网
 
 http://opensource.rock-chips.com
+
+###基于drm的显示平台
+
+####[Xserver](https://github.com/rockchip-linux/xserver)
+####[weston/wayland](git://anongit.freedesktop.org/wayland/weston)
+####[drm_hwcomposer](https://android.googlesource.com/platform/external/drm_hwcomposer)
