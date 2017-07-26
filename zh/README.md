@@ -7,6 +7,10 @@ https://github.com/markyzq/rockchip_drm_integration_helper
 
 [本文档pdf版本下载](https://www.gitbook.com/download/pdf/book/markyzq/rockchip_drm_integration_helper?lang=zh)
 
+###libdrm下载
+
+git clone git://anongit.freedesktop.org/mesa/drm
+
 ###kernel源码地址
 
 https://github.com/rockchip-linux/kernel
