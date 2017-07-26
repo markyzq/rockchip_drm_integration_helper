@@ -23,6 +23,10 @@ https://github.com/markyzq/rockchip_drm_demos
 
 http://opensource.rock-chips.com
 
+###Rockchip平台一些调试手段
+
+https://markyzq.gitbooks.io/rockchip_debugs
+
 ###基于drm的显示平台
 
 ####[Xserver](https://github.com/rockchip-linux/xserver)
