@@ -1,4 +1,3 @@
-# Readme
 
 基于rockchip kernel 4.4 sdk, 介绍drm相关配置与概念
 
@@ -15,3 +14,7 @@ https://github.com/rockchip-linux/kernel
 ###测试用例
 
 https://github.com/markyzq/rockchip_drm_demos
+
+###RockChip开源官网
+
+http://opensource.rock-chips.com
