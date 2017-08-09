@@ -35,6 +35,7 @@
  - [device tree配置说明](logo_devicetree.md)
  - [双屏异显](logo_dualdisplay.md)
  - [多屏抢占及热拔插](multi_grab_and_hotplug.md)
+ - [支持的logo图片](supported_logo.md)
 * [调试手段]
  - [dump当前显示状态](drm_dump_summary.md)
  - [dump当前drm使用的buffer](drm_dump_mm.md)
