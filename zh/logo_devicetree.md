@@ -2,6 +2,7 @@
 
 参考配置: arch/arm64/boot/dts/rockchip/rk3399-android.dtsi
 
+
 DeviceTree 解析:
 
     reserved-memory {
