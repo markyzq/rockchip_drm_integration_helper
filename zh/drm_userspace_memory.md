@@ -46,7 +46,9 @@ mmap
     ret = drmIoctl(fd, DRM_IOCTL_MODE_MAP_DUMB, &arg);
     if (ret)
         return ret;
-    map = drm_mmap(0, bo->size, PROT_READ | PROT_WRITE, MAP_SHARED, fd, arg.offset);
+    map = mmap(0, bo->size, PROT_READ | PROT_WRITE, MAP_SHARED, fd, arg.offset);
+    //64位
+    map = mmap64(0, bo->size, PROT_READ | PROT_WRITE, MAP_SHARED, fd, arg.offset);
     if (map == MAP_FAILED)
        return -EINVAL;
     bo->ptr = map
